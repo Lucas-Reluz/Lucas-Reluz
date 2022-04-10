@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/Lucas-Reluz">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Reluz&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Reluz&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas-Reluz&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Reluz&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="justify" alt="Lucas-csharp" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />

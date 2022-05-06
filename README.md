@@ -13,7 +13,7 @@
   <img align="justify" alt="Lucas-csharp" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img  align="justify" alt="Lucas-React" height="60" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img align="justify" alt="Lucas-dotnet" height="60" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" />
-  <img align="right" alt="Lucas-Esquilo" height="200" widht= "80" src="https://tenor.com/view/crycat-crying-cat-crying-cat-thumbs-up-thumbs-up-ok-gif-22851318" />
+  <img align="right" alt="Lucas-Esquilo" height="200" widht= "80" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" />
   </div>
   
   ##    

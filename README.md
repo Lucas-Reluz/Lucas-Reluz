@@ -1,5 +1,5 @@
 ## Hi, i'm Lucas Reluz, dev Junior.
-- 🌱 Atualmente estudando C#/.NET/SQL // Currently learning C#/.NET/SQL
+- 🌱 Atualmente estudando C#/.NET/SQL/ASP.NET // Currently learning C#/.NET/SQL/ASP.NET
 - 🎓 Estudante da Generation Brasil // Student at Generation Brazil
 - 📫 Me contate pelo meu email, Lucas-generozo1@hotmail.com // Contact me by my email, Lucas-generozo1@hotmail.com
 - fun fact ⚡ Eu jogo basquete 🏀 // I play basketball🏀

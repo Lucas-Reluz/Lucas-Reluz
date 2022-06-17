@@ -1,5 +1,5 @@
 ## Hi, i'm Lucas Reluz, dev Junior.
-- 🌱 Atualmente estudando C#/.NET/SQL/ASP.NET // Currently learning C#/.NET/SQL/ASP.NET
+- 🌱 Atualmente estudando C#/.NET/SQL/ASP.NET/REACT // Currently learning C#/.NET/SQL/ASP.NET/REACT
 - 🎓 Estudante da Generation Brasil // Student at Generation Brazil
 - 📫 Me contate pelo meu email, Lucas-generozo1@hotmail.com // Contact me by my email, Lucas-generozo1@hotmail.com
 - fun fact ⚡ Eu jogo basquete 🏀 // I play basketball🏀
@@ -13,6 +13,10 @@
   <img align="justify" alt="Lucas-csharp" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img  align="justify" alt="Lucas-React" height="60" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img align="justify" alt="Lucas-dotnet" height="60" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" />
+  <img align="justify" alt="Lucas-dotnet" height="60" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img align="justify" alt="Lucas-dotnet" height="60" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+  <img align="justify" alt="Lucas-dotnet" height="60" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  <img align="justify" alt="Lucas-dotnet" height="60" widht="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="right" alt="Lucas-Esquilo" height="200" widht= "80" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
   </div>
   

@@ -1,6 +1,6 @@
 ## Hi, i'm Lucas Reluz, dev Junior.
-- 🌱 Atualmente estudando C#/.NET/SQL/ASP.NET/REACT // Currently learning C#/.NET/SQL/ASP.NET/REACT
-- 🎓 Estudante da Generation Brasil // Student at Generation Brazil
+- 🌱 Atualmente estudando C#/.NET/SQL/ASP.NET/REACT/JavaScript/CSS/HTML // Currently learning C#/.NET/SQL/ASP.NET/REACT/JavaScript/CSS/HTML 
+- 🎓 Estudando atualmente no bootcamp Impulso JavaScript na DIO // Currently studying at the JavaScript Impulse bootcamp at DIO
 - 📫 Me contate pelo meu email, Lucas-generozo1@hotmail.com // Contact me by my email, Lucas-generozo1@hotmail.com
 - fun fact ⚡ Eu jogo basquete 🏀 // I play basketball🏀
 
